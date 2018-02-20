@@ -1,4 +1,2 @@
-REACT REDUX 
+REACT REDUX TEMPLATE with Work Flow
 
-//createStore from redux
-//
